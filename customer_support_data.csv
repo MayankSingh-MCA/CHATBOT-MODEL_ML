@@ -1,0 +1,6 @@
+utterance,intent
+How can I cancel my order?,cancel_order
+What is the delivery time?,delivery
+How do I contact customer service?,contact_customer_service
+Can I get a refund?,refund
+Where is my order?,order_status
